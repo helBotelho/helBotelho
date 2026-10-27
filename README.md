@@ -6,11 +6,21 @@ Tenho interesse em desenvolvimento de software, arquitetura de sistemas e bancos
 
 ## 💻 Tecnologias e conhecimentos
 
-- **Linguagens:** C, JavaScript e fundamentos de Python
-- **Desenvolvimento web:** HTML e CSS
-- **Banco de dados:** SQL e modelagem de dados
-- **Ferramentas:** Git, Node e GitHub
-- **Fundamentos:** lógica de programação, algoritmos, estruturas de dados e desenvolvimento de sistemas
+### Linguagens de programação
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,js" alt="C, Python e JavaScript" />
+</p>
+
+### Desenvolvimento web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML e CSS" />
+</p>
+
+### Banco de dados e ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub e Visual Studio Code" />
+</p>
+
 
 ## 🚀 O que estou desenvolvendo
 
@@ -29,6 +39,12 @@ Procuro documentar cada projeto com informações sobre seus objetivos, tecnolog
 Busco oportunidades de estágio e experiências práticas em **desenvolvimento de software e sistemas**, nas quais possa contribuir com dedicação, raciocínio lógico, criatividade e disposição para aprender.
 
 Meu objetivo é construir uma base técnica sólida, desenvolver soluções bem estruturadas e evoluir continuamente como profissional de tecnologia.
+
+## 📫 Contato
+
+- **LinkedIn:** [Helena Moraes](https://www.linkedin.com/in/helena-moraes-740baa260/)
+- **E-mail:** [helmoraes.4335@gmail.com](mailto:helmoraes.4335@gmail.com)
+
 
 ---
 
